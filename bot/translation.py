@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+എൻ്റെ ഗ്രൂപ്പിൽ മാത്രേ എന്നെ ഉപയോഗിക്കാൻ പറ്റൂ😝
 
 For More Details Click Help Button Below..
 @CrazyBotsz
@@ -43,14 +43,14 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@NEW_MLM_HD_MOVES
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> movie_sender_4_Robot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ MAIN GROUP</b> : <b><i><a href="https://t.me/NEW_MLM_HD_MOVES">NEW MALAYALAM HD MOVIES</a></i></b>
 
-<b>➥ Language</b> : <code>Python3</code>
+<b>➥ MAIN CHANEL</b> : <code>https://t.me/mlm_movie_2</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
