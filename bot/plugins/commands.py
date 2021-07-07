@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '🎗️MAIN CHANEL🎗️', url="https://t.me/mlm_movie_2"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '🎗️MAIN CHANEL🎗️', url="https://t.me/mlm_movie_2"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '🎗️MAIN CHANEL🎗️', url="https://t.me/mlm_movie_2"
                                 )
                         ]
                     ]
@@ -89,12 +89,12 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/CrazyBotsz'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('🏅MAIN GROUP🏅', url='https://t.me/NEW_MLM_HD_MOVES'),
+        InlineKeyboardButton('🏅MAIN CHANEL🏅', url ='https://t.me/mlm_movie_2')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('🏅NEW MOVIES UPLOADING UPDATEDS🏅', url='https://t.me/mlm_movies_update')
     ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+        InlineKeyboardButton('Help⚙', callback_data="help")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
